@@ -1,7 +1,7 @@
 Jenkins Dockerfile
 ==================
 
-This project can be used to deploy a Jenkins server inside a Docker container.
+This project can be used to deploy a Jenkins server inside a Docker container. The container also has git, node package manager, grunt and bower installed.
 
 #### Starting the container.
 
